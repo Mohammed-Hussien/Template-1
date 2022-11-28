@@ -17,7 +17,14 @@
 }
 /* End Clobal Rules */
 /* Start Components*/
-
+.special-heading{
+  color: #ebeced;
+  font-size: 100px;
+  font-weight: 800;
+  text-align: center;
+  letter-spacing: -3px;
+  margin: 0;
+}
 /* End Components*/
 
 .parent{
