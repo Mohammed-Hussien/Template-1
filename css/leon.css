@@ -129,9 +129,9 @@ height:calc(100vh - 64px);
 
 }
 .landing .intro-text h1{
-
+margin: 0;
 }
 .landing .intro-text p{
-  
+
 }
 /*<!-- End Landing Section-->*/
