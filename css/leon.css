@@ -174,4 +174,9 @@ grid-template-columns: repeat(auto-fill , minmax(300px, 1fr));
 color:var(--main-color);
 
 }
+.features .feat h3{
+font-weight: 800;
+margin: 30px 0;
+
+}
 /*<!-- End Features-->*/
