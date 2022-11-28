@@ -126,7 +126,10 @@ background-size: cover;
 height:calc(100vh - 64px);
 }
 .landing .intro-text{
-
+position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%,-50%);
 }
 .landing .intro-text h1{
 margin: 0;
