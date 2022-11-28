@@ -49,9 +49,15 @@ padding: 20px;
   justify-content: space-between;
   align-items: center;
 }
-.header.logo{
+.header .logo{
 
 width: 60px;
 
+}
+
+.header .links{
+
+
+  
 }
 /*<!-- End Header -->*/
