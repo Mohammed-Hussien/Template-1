@@ -166,7 +166,8 @@ grid-template-columns: repeat(auto-fill , minmax(300px, 1fr));
 }
 .features .feat{
 
- 
+ padding: 20px;
+ text-align: center;
 
 }
 /*<!-- End Features-->*/
