@@ -220,4 +220,8 @@ display: grid;
 grid-template-columns: repeat(auto-full, minmax(300px,1fr));
 grid-gap: 30px;
 }
+.services .services-content .srv{
+  flex-direction: column;
+  text-align: center;
+}
 /*<!-- End Services -->*/
