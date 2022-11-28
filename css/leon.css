@@ -16,6 +16,8 @@
     background-color: olive;
 }
 .container{
-    width: 600px;
-    margin: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
 }
