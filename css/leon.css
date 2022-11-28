@@ -31,6 +31,15 @@
   text-align: center;
   color: #797979;
 }
+@media(max-width:767px;){
+  .special-heading{
+    font-size: 60px;
+
+  }
+  .special-heading +p{
+    margin-top: -20px;
+  }
+}
 /* End Components*/
 
 .parent{
