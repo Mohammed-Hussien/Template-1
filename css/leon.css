@@ -233,4 +233,8 @@ flex-basis: 60px;
 
   flex:1;
 }
+.services .services-content .srv .text h3{
+
+  margin: 0 0 20px;
+}
 /*<!-- End Services -->*/
