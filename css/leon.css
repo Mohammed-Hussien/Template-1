@@ -211,5 +211,8 @@ margin: 30px 0;
   }
 /*<!-- End Features-->*/
 /*<!-- Start Services-->*/
-
+.services{
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
 /*<!-- End Services -->*/
