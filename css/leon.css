@@ -108,4 +108,8 @@ text-decoration:none;
 color: #333;
 transition: 0.3s;
 }
+.header .links ul li:not(:last-child) a{
+
+  
+}
 /*<!-- End Header -->*/
