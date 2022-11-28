@@ -224,4 +224,9 @@ grid-gap: 30px;
   flex-direction: column;
   text-align: center;
 }
+.services .services-content .srv i{
+color: var(--main-color);
+flex-basis: 60px;
+
+}
 /*<!-- End Services -->*/
