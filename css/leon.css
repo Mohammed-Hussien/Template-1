@@ -50,13 +50,15 @@ padding: 20px;
   align-items: center;
 }
 .header .logo{
-
 width: 60px;
-
 }
 
 .header .links{
 position: relative;
-
 }
 /*<!-- End Header -->*/
+.header .links .logo{
+width: 30px;
+display: flex;
+flex-wrap: wrap;
+}
