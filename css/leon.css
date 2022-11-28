@@ -1,4 +1,7 @@
 /* Start Global Rules */
+:root{
+  
+}
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -134,6 +137,7 @@ transform: translate(-50%,-50%);
 }
 .landing .intro-text h1{
 margin: 0;
+
 }
 .landing .intro-text p{
 
