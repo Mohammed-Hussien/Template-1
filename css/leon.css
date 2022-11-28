@@ -121,6 +121,7 @@ border-bottom: 1px solid #ddd;
 /*<!-- End Header -->*/
 /*<!-- Start Landing Section-->*/
 .landing{
-  
+background-image: url(../images/landing.jpg);
+background-size: cover;
 }
 /*<!-- End Landing Section-->*/
