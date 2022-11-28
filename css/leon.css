@@ -247,4 +247,7 @@ flex-basis: 60px;
   text-align: center;
   position: relative;
 }
+.services.services-content.srv.image::before{
+  content: '';
+}
 /*<!-- End Services -->*/
