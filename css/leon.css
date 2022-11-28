@@ -124,6 +124,7 @@ border-bottom: 1px solid #ddd;
 background-image: url(../images/landing.jpg);
 background-size: cover;
 height:calc(100vh - 64px);
+position: relative;
 }
 .landing .intro-text{
 position: absolute;
