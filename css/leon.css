@@ -68,10 +68,13 @@ margin-bottom: 5px;
 }
 .header .links .icon span:first-child{
 height: 3px ;
+width: 100%;
 }
 .header .links .icon span:nth-child(2){
 height :3px ;
+width: 60%;
 }
 .header .links .icon span:last-child{
 height :5px ;
+width: 100%;
 }
