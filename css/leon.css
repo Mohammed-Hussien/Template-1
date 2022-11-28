@@ -65,5 +65,8 @@ flex-wrap: wrap;
 .header .links .icon span {
 background-color : #333;
 margin-bottom: 5px;
+}
+.header .links .icon span:first-child{
 
+  
 }
