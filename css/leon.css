@@ -11,3 +11,11 @@
     
 }
 /* End Clobal Rules */
+
+.parent{
+    background-color: olive;
+}
+.container{
+    width: 600px;
+    margin: auto;
+}
