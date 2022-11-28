@@ -1,6 +1,6 @@
 /* Start Global Rules */
 :root{
-  
+  --main-color:#10cab7;
 }
 * {
   -webkit-box-sizing: border-box;
