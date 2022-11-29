@@ -325,4 +325,9 @@ right: -150px;
   .about .about-content .image img{
     max-width: 100%;
   }
+  .contact{
+padding-top: 60px;
+padding-bottom: 60px;
+background-color: #f6f6f6;
+  }
 /*<!-- End Portfolio -->*/
