@@ -301,7 +301,14 @@ padding-bottom: 60px;
     height: 375px;
   }
   .about .about-content .image::before{
-content: "";
+    content: "";
+    background-color: aliceblue;
+    width: 100px;
+    height: calc(100% + 100px);
+    top: -50px;
+    position: absolute;
+    right: 0;
+    z-index: -1;
 
   }
   .about .about-content .image::after{
