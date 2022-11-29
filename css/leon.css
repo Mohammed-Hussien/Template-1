@@ -295,4 +295,9 @@ padding-bottom: 60px;
     flex-wrap: wrap;
     justify-content: space-between;
   }
+  .about .about-content .image{
+    position: relative;
+    width: 250px;
+    height: 375px;
+  }
 /*<!-- End Portfolio -->*/
