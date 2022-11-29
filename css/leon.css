@@ -289,4 +289,10 @@ padding-top: 60px;
 padding-bottom: 60px;
 
   }
+  .about-content{
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
 /*<!-- End Portfolio -->*/
