@@ -259,4 +259,10 @@ flex-basis: 60px;
 padding-bottom: 60px;
 background-color: #f6f6f6;
 }
+.portfolio .portfolio-content {
+display: grid;
+grid-template-columns: repeat(auto-full, minmax(300px,1fr));
+grid-gap: 30px;
+margin-top: 80px;
+}
 /*<!-- End Portfolio -->*/
